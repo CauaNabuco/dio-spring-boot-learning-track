@@ -134,3 +134,10 @@ cd 01-spring-web
 ```
 
 For module-specific details, always check each module README from the links above.
+
+## 🛠️ Evoluções e Melhorias Implementadas
+
+### Customização de Persona e Formatação de Respostas (`system-message.st`)
+- **O que foi feito:** Atualização do ficheiro de prompt externo localizado em `src/main/resources/prompts/system-message.st`.
+- **Objetivo:** Definir diretrizes para que a IA atue como um assistente sênior especialista em Análise e Desenvolvimento de Sistemas e desenvolvimento web.
+- **Padrão de Resposta:** As respostas foram configuradas para serem estritamente técnicas, limpas, estruturadas em tópicos e focadas em boas práticas de programação.
